@@ -28,7 +28,7 @@ This project is designed to manage and process various tasks using agents with d
     Create a `.env` file in the root directory and add your NVIDIA API key:
 
     ```env
-    NVIDIA_API_KEY=your_nvidia_api_key
+    GROQ_API_KEY=your_nvidia_api_key
     ```
 
 ## Usage
@@ -36,7 +36,7 @@ This project is designed to manage and process various tasks using agents with d
 1. **Run the Streamlit application:**
 
     ```sh
-    streamlit run finalapp.py
+    streamlit run crew.py
     ```
 
 # Example Output: Unraveling the Latest Trends and Insights in Artificial Intelligence
